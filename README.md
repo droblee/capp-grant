@@ -34,6 +34,16 @@ This project underscores my ability to leverage data analytics to address comple
 - **Problem:** Need to document citizen delinquency for a government grant application, with limited budget to pay for a custom report from the ERP vendor.
 - **Solution:** Used data mining techniques to extract and process the required data, creating a custom spreadsheet with automated calculations.
 - **Result:** Enabled the city to apply for and secure a million-dollar grant, saving $10,000 in potential costs.
-- **Technologies Used:** MariaDB SQL, Excel, VB, and Python
+- **Technologies Used:** MariaDB SQL, Excel, VB, and Python.
 
-This repository been successfully replicated in a home lab using Linux and MariaDB, demonstrating my flexibility and applicability across different environments.
+This project been successfully replicated in a home lab using Linux and MariaDB, demonstrating my flexibility and applicability across different environments.
+
+### Repository files:
+* Setup Database.sql
+	- Used to create the test database, tables, view, and queries.
+* ImportCSV.py
+	- Used to import CSV files in "Import Data" directory into database.
+* CAPP Report.xlsm
+  	- Macro enabled spreadsheet.
+* Macros.vb
+	- Macros in spreadsheet.
