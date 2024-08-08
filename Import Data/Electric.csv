@@ -1,0 +1,11 @@
+﻿ElectricID,Name,BaseCharge,Tier,Charge,Rate
+201,Basic Plan,15,1,0.1,0.05
+202,Standard Plan,25,2,0.15,0.075
+203,Premium Plan,35,3,0.2,0.1
+204,Economy Plan,10,1,0.08,0.04
+205,Family Plan,30,2,0.18,0.09
+206,Green Energy Plan,40,3,0.22,0.11
+207,Off-Peak Plan,20,1,0.12,0.06
+208,Peak Plan,50,3,0.25,0.125
+209,Weekend Saver Plan,18,1,0.09,0.045
+210,Night Owl Plan,22,2,0.14,0.07

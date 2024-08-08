@@ -1,0 +1,51 @@
+﻿AddressID,CustomerID,AddressLine1,AddressLine2,City,State,ZipCode,Country
+101,1,123 Maple St,Apt 1,Midgard,CA,55555,USA
+102,2,456 Oak St,,Midgard,CA,55555,USA
+103,3,789 Pine St,Suite 5,Midgard,CA,55555,USA
+104,4,101 Birch St,,Midgard,CA,55555,USA
+105,5,202 Cedar St,Apt 2,Midgard,CA,55555,USA
+106,6,303 Elm St,Suite 10,Midgard,CA,55555,USA
+107,7,404 Fir St,,Midgard,CA,55555,USA
+108,8,505 Spruce St,Apt 3,Midgard,CA,55555,USA
+109,9,606 Willow St,,Midgard,CA,55555,USA
+110,10,707 Ash St,Suite 20,Midgard,CA,55555,USA
+111,11,808 Redwood St,,Midgard,CA,55555,USA
+112,12,909 Cypress St,Apt 4,Midgard,CA,55555,USA
+113,13,1010 Sequoia St,,Midgard,CA,55555,USA
+114,14,1111 Palm St,Suite 30,Midgard,CA,55555,USA
+115,15,1212 Magnolia St,,Midgard,CA,55555,USA
+116,16,1313 Poplar St,Apt 5,Midgard,CA,55555,USA
+117,17,1414 Dogwood St,,Midgard,CA,55555,USA
+118,18,1515 Alder St,Suite 40,Midgard,CA,55555,USA
+119,19,1616 Hawthorn St,,Midgard,CA,55555,USA
+120,20,1717 Juniper St,Apt 6,Midgard,CA,55555,USA
+121,21,1818 Laurel St,,Midgard,CA,55555,USA
+122,22,1919 Maple St,Suite 50,Midgard,CA,55555,USA
+123,23,2020 Oak St,,Midgard,CA,55555,USA
+124,24,2121 Pine St,Apt 7,Midgard,CA,55555,USA
+125,25,2222 Birch St,,Midgard,CA,55555,USA
+126,26,2323 Cedar St,Suite 60,Midgard,CA,55555,USA
+127,27,2424 Elm St,,Midgard,CA,55555,USA
+128,28,2525 Fir St,Apt 8,Midgard,CA,55555,USA
+129,29,2626 Spruce St,,Midgard,CA,55555,USA
+130,30,2727 Willow St,Suite 70,Midgard,CA,55555,USA
+131,31,2828 Ash St,,Midgard,CA,55555,USA
+132,32,2929 Redwood St,Apt 9,Midgard,CA,55555,USA
+133,33,3030 Cypress St,,Midgard,CA,55555,USA
+134,34,3131 Sequoia St,Suite 80,Midgard,CA,55555,USA
+135,35,3232 Palm St,,Midgard,CA,55555,USA
+136,36,3333 Magnolia St,Apt 10,Midgard,CA,55555,USA
+137,37,3434 Poplar St,,Midgard,CA,55555,USA
+138,38,3535 Dogwood St,Suite 90,Midgard,CA,55555,USA
+139,39,3636 Alder St,,Midgard,CA,55555,USA
+140,40,3737 Hawthorn St,Apt 11,Midgard,CA,55555,USA
+141,41,3838 Juniper St,,Midgard,CA,55555,USA
+142,42,3939 Laurel St,Suite 100,Midgard,CA,55555,USA
+143,43,4040 Maple St,,Midgard,CA,55555,USA
+144,44,4141 Oak St,Apt 12,Midgard,CA,55555,USA
+145,45,4242 Pine St,,Midgard,CA,55555,USA
+146,46,4343 Birch St,Suite 110,Midgard,CA,55555,USA
+147,47,4444 Cedar St,,Midgard,CA,55555,USA
+148,48,4545 Elm St,Apt 13,Midgard,CA,55555,USA
+149,49,4646 Fir St,,Midgard,CA,55555,USA
+150,50,4747 Spruce St,Suite 120,Midgard,CA,55555,USA
