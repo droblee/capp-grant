@@ -29,11 +29,11 @@ Leveraging my data mining expertise, I devised a cost-effective solution to extr
 This project underscores my ability to leverage data analytics to address complex challenges and deliver substantial cost savings. By extracting, transforming, and analyzing data from a variety systems, I can provide actionable insights and solutions that drive positive outcomes for organizations.
 
 ### Portfolio Summary
-### Project Title: Resolving Utility Bill Delinquency Reporting Challenge
-### Client: City
-### Problem: Need to document citizen delinquency for a government grant application, with limited budget to pay for a custom report from the ERP vendor.
-### Solution: Used data mining techniques to extract and process the required data, creating a custom spreadsheet with automated calculations.
-### Result: Enabled the city to apply for and secure a million-dollar grant, saving $10,000 in potential costs.
-### Technologies Used: Db2 SQL, Excel, VB
+Project Title: Resolving Utility Bill Delinquency Reporting Challenge
+Client: City
+Problem: Need to document citizen delinquency for a government grant application, with limited budget to pay for a custom report from the ERP vendor.
+Solution: Used data mining techniques to extract and process the required data, creating a custom spreadsheet with automated calculations.
+Result: Enabled the city to apply for and secure a million-dollar grant, saving $10,000 in potential costs.
+Technologies Used: Db2 SQL, Excel, VB
 
 This repository been successfully replicated in a home lab using Linux and MariaDB, demonstrating my flexibility and applicability across different environments.
