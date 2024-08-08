@@ -1,4 +1,5 @@
-# Portfolio Entry: Resolving the Utility Bill Delinquency Reporting Challenge for City Grant Funds
+# Portfolio Entry:
+# Resolving the Utility Bill Delinquency Reporting Challenge for City Grant Funds
 
 ## Problem Statement
 During the COVID-19 pandemic, the city allowed its citizens to delay payments on their electric utility bills, resulting in a significant monetary shortfall. The government introduced the CAPP (COVID-19 Arrears Payment Program) grant to help cities recover these funds. To qualify, the city needed to submit detailed documentation showing citizen delinquency from 03/04/2020 to 12/31/2021. This included the total delinquent amount for each citizen and the specific delinquency period. The city’s legacy ERP system did not have a built-in report for this purpose, and creating a custom report through the ERP vendor would cost approximately $10,000—an expense the city could not afford.
